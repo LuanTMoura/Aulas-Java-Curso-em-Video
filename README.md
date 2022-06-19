@@ -1,2 +1,2 @@
 # Aulas-Java-Curso-em-Video
- Nesse repositório serão encontrados todos os arquivos referentes às aulas que eu assisti no curso de Java, pelo canal Curso em Vídeo, do professor Gustavo Guanabara.
+ Nesse repositório serão encontrados todos os arquivos referentes às aulas que eu revisei no curso de Java, pelo canal Curso em Vídeo no YouTube, feito pelo professor Gustavo Guanabara.
